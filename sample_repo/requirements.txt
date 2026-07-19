@@ -1,0 +1,6 @@
+requirements = '''
+Flask
+'''
+
+with open("sample_repo/requirements.txt", "w") as f:
+    f.write(requirements)
