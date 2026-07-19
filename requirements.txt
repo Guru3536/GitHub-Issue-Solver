@@ -1,0 +1,9 @@
+groq
+faiss-cpu
+sentence-transformers
+networkx
+matplotlib
+numpy
+pandas
+tqdm
+GitPython
