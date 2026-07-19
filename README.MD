@@ -213,37 +213,29 @@ Final Solution
 
 ---
 
-# 📸 Screenshots
+# 📸 Project Screenshots
 
-## Architecture
+## 🏗️ Architecture Overview
 
-> Add your architecture screenshot here.
-
-```
-screenshots/architecture.png
-```
+<p align="center">
+  <img src="./screenshots/architecture.png" alt="Architecture Overview" width="1000">
+</p>
 
 ---
 
-## Workflow
+## 🔄 Workflow Diagram
 
-> Add your workflow screenshot here.
-
-```
-screenshots/workflow.png
-```
+<p align="center">
+  <img src="./screenshots/workflow.png" alt="Workflow Diagram" width="1000">
+</p>
 
 ---
 
-## Generated Output
+## 🤖 Sample Output
 
-> Add your output screenshot here.
-
-```
-screenshots/output.png
-```
-
----
+<p align="center">
+  <img src="./screenshots/output.png" alt="Sample Output" width="1000">
+</p>
 
 # 💻 Technologies Used
 
